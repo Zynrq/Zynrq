@@ -1,4 +1,4 @@
-👋 Hi there, I'm Zynrq!
+# Hi there, I'm Zynrq! 👋
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning JavaScript
 
